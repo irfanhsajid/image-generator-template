@@ -20,7 +20,7 @@ export const TemplateSelector: React.FC<TemplateSelectorProps> = ({ selectedId, 
           Bottle Template
         </label>
         <span className="text-[11px] text-zinc-400 bg-zinc-800/80 px-2 py-0.5 rounded-full border border-zinc-700/50">
-          Phase 1: Regular 3ml
+          Regular 3ml & 6ml Active
         </span>
       </div>
 

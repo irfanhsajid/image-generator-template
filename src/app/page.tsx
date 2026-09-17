@@ -37,7 +37,7 @@ export default function HomePage() {
           <div className="flex items-center gap-3">
             <div className="hidden sm:flex items-center gap-1.5 text-xs text-zinc-400 bg-zinc-900 px-3 py-1.5 rounded-lg border border-zinc-800">
               <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-              <span>Phase 1 — Regular 3ml Active</span>
+              <span>Regular 3ml & 6ml Active</span>
             </div>
           </div>
         </div>
