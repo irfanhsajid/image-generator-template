@@ -35,9 +35,9 @@ export default function HomePage() {
           </div>
 
           <div className="flex items-center gap-3">
-            <div className="hidden sm:flex items-center gap-1.5 text-xs text-zinc-400 bg-zinc-900 px-3 py-1.5 rounded-lg border border-zinc-800">
+            <div className="hidden sm:flex items-center gap-1.5 text-xs text-zinc-300 bg-zinc-900 px-3 py-1.5 rounded-lg border border-zinc-800">
               <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-              <span>Regular 3ml & 6ml Active</span>
+              <span>All 4 Templates Active</span>
             </div>
           </div>
         </div>

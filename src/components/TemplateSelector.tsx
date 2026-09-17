@@ -19,8 +19,8 @@ export const TemplateSelector: React.FC<TemplateSelectorProps> = ({ selectedId, 
           <Layers className="w-3.5 h-3.5 text-amber-400" />
           Bottle Template
         </label>
-        <span className="text-[11px] text-zinc-400 bg-zinc-800/80 px-2 py-0.5 rounded-full border border-zinc-700/50">
-          Regular 3ml & 6ml Active
+        <span className="text-[11px] text-amber-300/90 bg-amber-950/40 px-2 py-0.5 rounded-full border border-amber-500/30 font-medium">
+          All 4 Templates Active
         </span>
       </div>
 
